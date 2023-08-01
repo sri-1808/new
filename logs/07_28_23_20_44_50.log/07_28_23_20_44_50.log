@@ -1,0 +1,14 @@
+[2023-07-28 20:44:50,435]-187 werkzeug-WARNING- * Debugger is active!
+[2023-07-28 20:44:50,456]-187 werkzeug-INFO- * Debugger PIN: 568-336-174
+[2023-07-28 20:44:57,082]-187 werkzeug-INFO-127.0.0.1 - - [28/Jul/2023 20:44:57] "GET / HTTP/1.1" 200 -
+[2023-07-28 20:45:01,060]-187 werkzeug-INFO-127.0.0.1 - - [28/Jul/2023 20:45:01] "GET /predictdata HTTP/1.1" 200 -
+[2023-07-28 20:46:22,569]-56 root-INFO-After Loaded second class -1
+[2023-07-28 20:46:22,569]-66 root-INFO-After Loaded second class -2
+[2023-07-28 20:46:22,626]-15 root-INFO-Loaded
+[2023-07-28 20:46:22,871]-20 root-INFO-After Loaded
+[2023-07-28 20:46:22,896]-187 werkzeug-INFO-127.0.0.1 - - [28/Jul/2023 20:46:22] "POST /predictdata HTTP/1.1" 200 -
+[2023-07-28 20:46:53,160]-56 root-INFO-After Loaded second class -1
+[2023-07-28 20:46:53,161]-66 root-INFO-After Loaded second class -2
+[2023-07-28 20:46:53,187]-15 root-INFO-Loaded
+[2023-07-28 20:46:53,199]-20 root-INFO-After Loaded
+[2023-07-28 20:46:53,225]-187 werkzeug-INFO-192.168.0.8 - - [28/Jul/2023 20:46:53] "POST /predictdata HTTP/1.1" 200 -

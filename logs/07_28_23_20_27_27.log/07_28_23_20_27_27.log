@@ -1,0 +1,20 @@
+[2023-07-28 20:27:32,414]-25 root-INFO-Entered the data ingestion method or component
+[2023-07-28 20:27:32,421]-28 root-INFO-Read the dataset as dataframe
+[2023-07-28 20:27:32,439]-34 root-INFO-Train test split initiated
+[2023-07-28 20:27:32,455]-41 root-INFO-Inmgestion of the data iss completed
+[2023-07-28 20:27:32,509]-82 root-INFO-Read train and test data completed
+[2023-07-28 20:27:32,510]-84 root-INFO-Obtaining preprocessing object
+[2023-07-28 20:27:32,510]-58 root-INFO-Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2023-07-28 20:27:32,510]-59 root-INFO-Numerical columns: ['writing_score', 'reading_score']
+[2023-07-28 20:27:32,515]-97 root-INFO-Applying preprocessing object on training dataframe and testing dataframe.
+[2023-07-28 20:27:32,621]-109 root-INFO-Saved preprocessing object.
+[2023-07-28 20:27:32,623]-33 root-INFO-Split training and test input data
+[2023-07-28 20:31:09,883]-100 root-INFO-BEST MODEL iS LinearRegression() 
+[2023-07-28 20:31:09,884]-103 root-INFO-Model is Random Forest with score 0.8541932040061081
+[2023-07-28 20:31:09,887]-103 root-INFO-Model is Decision Tree with score 0.7288549608282129
+[2023-07-28 20:31:09,887]-103 root-INFO-Model is Gradient Boosting with score 0.8736368157121608
+[2023-07-28 20:31:09,887]-103 root-INFO-Model is Linear Regression with score 0.8796442012440289
+[2023-07-28 20:31:09,887]-103 root-INFO-Model is XGBRegressor with score 0.8641759493504592
+[2023-07-28 20:31:09,887]-103 root-INFO-Model is CatBoosting Regressor with score 0.8613734525258083
+[2023-07-28 20:31:09,887]-103 root-INFO-Model is AdaBoost Regressor with score 0.8480563226807948
+[2023-07-28 20:31:09,890]-107 root-INFO-Best found model on both training and testing dataset

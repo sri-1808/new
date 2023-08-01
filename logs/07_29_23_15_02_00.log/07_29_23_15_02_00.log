@@ -1,0 +1,4 @@
+[2023-07-29 15:02:03,550]-187 werkzeug-WARNING- * Debugger is active!
+[2023-07-29 15:02:03,657]-187 werkzeug-INFO- * Debugger PIN: 568-336-174
+[2023-07-29 15:03:16,606]-187 werkzeug-INFO-127.0.0.1 - - [29/Jul/2023 15:03:16] "GET / HTTP/1.1" 200 -
+[2023-07-29 15:03:17,624]-187 werkzeug-INFO-127.0.0.1 - - [29/Jul/2023 15:03:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
